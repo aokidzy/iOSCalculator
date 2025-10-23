@@ -1,0 +1,40 @@
+# Xcode
+.DS_Store
+/build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.swiftpm/
+
+# DerivedData
+DerivedData/
+
+# Generated xcconfig
+*.xcconfig
+
+# Project-level settings
+.idea/
+project.xcworkspace
+xcuserdata/
+
+# User data
+*.hmap
+*.ipa
+*.zip
+*.dmg
